@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E78B3429-7C32-A2B9-67A7-E67272EFDF1A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdventureGame.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" Line="19" Column="1" />
+      <File FileName="Assets/AdventureGame.cs" Line="26" Column="1" />
+      <File FileName="Assets/State.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AdventureGame.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c99b213-09c5-474a-b194-8dc00e446c11" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

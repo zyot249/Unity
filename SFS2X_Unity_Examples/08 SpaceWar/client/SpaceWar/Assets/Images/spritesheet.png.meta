@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 2c4822ce6aecb48b6b0f5833689fea0f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: weapon_torpedo_0010.png
+    21300002: explosion_0001.png
+    21300004: explosion_0004.png
+    21300006: explosion_0007.png
+    21300008: ship_viking_0002.png
+    21300010: ship_raptor_0002.png
+    21300012: explosion_0010.png
+    21300014: weapon_torpedo_0014.png
+    21300016: weapon_torpedo_0019.png
+    21300018: weapon_torpedo_0013.png
+    21300020: weapon_torpedo_0003.png
+    21300022: weapon_torpedo_0006.png
+    21300024: weapon_torpedo_0009.png
+    21300026: ship_astro_0003.png
+    21300028: weapon_torpedo_0015.png
+    21300030: weapon_torpedo_0012.png
+    21300032: explosion_0003.png
+    21300034: explosion_0006.png
+    21300036: explosion_0009.png
+    21300038: ship_viking_0001.png
+    21300040: ship_raptor_0001.png
+    21300042: weapon_torpedo_0002.png
+    21300044: weapon_torpedo_0005.png
+    21300046: weapon_torpedo_0008.png
+    21300048: ship_astro_0002.png
+    21300050: weapon_torpedo_0018.png
+    21300052: weapon_torpedo_0011.png
+    21300054: explosion_0002.png
+    21300056: explosion_0005.png
+    21300058: explosion_0008.png
+    21300060: ship_viking_0003.png
+    21300062: ship_raptor_0003.png
+    21300064: explosion_0011.png
+    21300066: weapon_torpedo_0017.png
+    21300068: weapon_torpedo_0016.png
+    21300070: weapon_torpedo_0001.png
+    21300072: weapon_torpedo_0004.png
+    21300074: weapon_torpedo_0007.png
+    21300076: ship_astro_0001.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_torpedo_0010.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0001.png
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 124
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0004.png
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0007.png
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_viking_0002.png
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 33
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_raptor_0002.png
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 27
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0010.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0014.png
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0019.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0013.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0003.png
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0006.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0009.png
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_astro_0003.png
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 36
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0015.png
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0012.png
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0003.png
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0006.png
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0009.png
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_viking_0001.png
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 23
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_raptor_0001.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 48
+        width: 21
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0002.png
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0005.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 22
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0008.png
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_astro_0002.png
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 30
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0018.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0011.png
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0002.png
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0005.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0008.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_viking_0003.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 39
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_raptor_0003.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 33
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: explosion_0011.png
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 121
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0017.png
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0016.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0001.png
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0004.png
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: weapon_torpedo_0007.png
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ship_astro_0001.png
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 32
+        width: 20
+        height: 14
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
